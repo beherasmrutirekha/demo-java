@@ -22,11 +22,7 @@
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
         <version>3.0.0</version>
-    <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>10.0.0.68432</version>
-      </plugin>  
+    <plugi>  
     </plugins>
   </build>
   <dependencies>
